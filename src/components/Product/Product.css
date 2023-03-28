@@ -41,9 +41,11 @@ border: 1px solid #95A0A7;
 border-radius: 0px 0px 8px 8px;
 width: 100%;
 position: absolute;
-bottom: 0px;
+bottom: -1px;
+/* right: 1px;
+left: -1px; */
 color: #0E161A;
 }
 .btn-cart:hover{
-    background-color: orange;
+    background-color: #ff9900;
 }
